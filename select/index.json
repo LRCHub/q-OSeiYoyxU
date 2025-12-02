@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Ever",
+  "base_artist": "ミセカイ",
+  "createdAt": "2025-12-02T08:12:35.185432Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We Are Never Ever Getting Back Together",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_We_Are_Never_Ever_Getting_Back_Together_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ever Since You Left",
+      "artist": "Priscilla Block",
+      "has_synced": true,
+      "path": "select/02_Ever_Since_You_Left_Priscilla_Block.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All You Ever Do Is Bring Me Down",
+      "artist": "Mavericks",
+      "has_synced": false,
+      "path": "select/03_All_You_Ever_Do_Is_Bring_Me_Down_Mavericks.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "All You Ever Do Is Bring Me Down",
+      "artist": "The Mavericks feat. Flaco Jimenez",
+      "has_synced": true,
+      "path": "select/04_All_You_Ever_Do_Is_Bring_Me_Down_The_Mavericks_feat._Flaco_Jimenez.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All You Ever Do Is Bring Me Down (Album Version)",
+      "artist": "The Mavericks",
+      "has_synced": true,
+      "path": "select/05_All_You_Ever_Do_Is_Bring_Me_Down_(Album_Version)_The_Mavericks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Am I the Only One (Who's Ever Felt This Way?)",
+      "artist": "Maria McKee",
+      "has_synced": true,
+      "path": "select/06_Am_I_the_Only_One_(Who's_Ever_Felt_This_Way_)_Maria_McKee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Am I the Only One (Who's Ever Felt This Way)",
+      "artist": "PAUL WORLEY",
+      "has_synced": true,
+      "path": "select/07_Am_I_the_Only_One_(Who's_Ever_Felt_This_Way)_PAUL_WORLEY.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Are You Ever Gonna Love Me",
+      "artist": "Holly Dunn",
+      "has_synced": true,
+      "path": "select/08_Are_You_Ever_Gonna_Love_Me_Holly_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Are You Ever Gonna Love Me (LP Version)",
+      "artist": "Holly Dunn",
+      "has_synced": true,
+      "path": "select/09_Are_You_Ever_Gonna_Love_Me_(LP_Version)_Holly_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Does Fort Worth Ever Cross Your Mind",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/10_Does_Fort_Worth_Ever_Cross_Your_Mind_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Does Fort Worth Ever Cross Your Mind (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/11_Does_Fort_Worth_Ever_Cross_Your_Mind_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Does Fort Worth Ever Cross Your Mind (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/12_Does_Fort_Worth_Ever_Cross_Your_Mind_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Does That Blue Moon Ever Shine On You",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/13_Does_That_Blue_Moon_Ever_Shine_On_You_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Does That Blue Moon Ever Shine On You (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/14_Does_That_Blue_Moon_Ever_Shine_On_You_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Every Girl I Ever Loved",
+      "artist": "Noah Schnacky",
+      "has_synced": true,
+      "path": "select/15_Every_Girl_I_Ever_Loved_Noah_Schnacky.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Forever And Ever, Amen",
+      "artist": "Josh Turner feat. Randy Travis",
+      "has_synced": false,
+      "path": "select/16_Forever_And_Ever,_Amen_Josh_Turner_feat._Randy_Travis.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ever",
+      "artist": "ミセカイ",
+      "has_synced": false,
+      "path": "select/pl_01_Ever_ミセカイ.txt"
+    }
+  ]
+}
